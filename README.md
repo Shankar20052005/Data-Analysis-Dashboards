@@ -1,134 +1,56 @@
-\# 🚀 Power BI Dashboard Collection
+# 🚀 K.S. Shankar’s Data Analysis & Power BI Projects
 
-
-
-Welcome to my \*\*Power BI Dashboard Repository\*\*, a curated collection of interactive and insightful dashboards built to explore real-world business scenarios across multiple domains — from automotive analytics to financial performance tracking.
-
-
-
-Each dashboard demonstrates strong \*\*data visualization\*\*, \*\*DAX modeling\*\*, and \*\*business storytelling\*\* skills using Power BI.  
-
-
+Welcome to my **Data Analysis & Power BI Portfolio**, a curated collection of projects and dashboards built to explore real-world business scenarios. Each project demonstrates **data visualization**, **DAX modeling**, and **business storytelling** skills.  
 
 ---
 
+## 🧭 Repository Overview
 
+This repository contains multiple projects, each in its own folder with datasets, dashboards, and documentation.  
 
-\## 🧭 Repository Overview
+| Folder | Project / Dashboard | Description |
+|:-------|:------------------|:-----------|
+| [BMW-Dashboard](./BMW-Dashboard/README.md) | **BMW Sales Performance Dashboard** | Analysis of BMW’s global sales, revenue, and KPIs with interactive insights. |
 
-
-
-This repository includes multiple folders, each representing a specific dashboard project:
-
-
-
-| Folder | Dashboard Title | Description |
-
-|:-------|:----------------|:-------------|
-
-| \[BMW-Dashboard](./BMW-Dashboard/README.md) | \*\*BMW Sales Performance Dashboard\*\* | A comprehensive view of BMW’s global sales, revenue, and KPIs with interactive insights. |
-
-
+> *Each project folder includes detailed documentation and dashboard files.*
 
 ---
 
+## 🛠 Tools & Technologies
 
-
-\## 🧩 Tools \& Technologies Used
-
-
-
-\- \*\*Power BI\*\* – for dashboard design and DAX calculations  
-
-\- \*\*Microsoft Excel / CSV\*\* – for raw data sources  
-
-\- \*\*Power Query\*\* – for data cleaning and transformation  
-
-\- \*\*DAX\*\* – for calculated columns and measures  
-
-\- \*\*GitHub\*\* – for version control and project presentation  
-
-
+- **Power BI** – Dashboard creation, visualization, and DAX  
+- **Excel / CSV** – Data sources  
+- **Power Query** – Data cleaning and transformation  
+- **Python (Pandas, Matplotlib, Seaborn)** – Data analysis and visualization  
+- **Git & GitHub** – Version control and portfolio presentation  
 
 ---
 
+## 🎯 Purpose
 
-
-\## 🎯 Purpose of This Repository
-
-
-
-The goal of this repository is to:
-
-\- Showcase my \*\*data visualization and storytelling skills\*\*
-
-\- Demonstrate \*\*business understanding through data\*\*
-
-\- Serve as a \*\*portfolio for academic and professional opportunities\*\*
-
-
+- Showcase **data visualization and storytelling skills**  
+- Demonstrate **business understanding through data**  
+- Serve as a **professional portfolio** for academic or career opportunities  
 
 ---
 
+## 🌟 Highlights
 
-
-\## 🌟 Highlights
-
-
-
-\- Interactive dashboards with slicers and drill-through pages  
-
-\- Clean and intuitive layout using Power BI best practices  
-
-\- KPIs and trend lines for actionable insights  
-
-\- Modular structure for scalability (each folder is a separate project)
-
-
+- Interactive dashboards with **filters, slicers, and drill-throughs**  
+- **Clean layouts** following best practices  
+- **KPIs, trends, and actionable insights**  
+- Modular and scalable project structure  
 
 ---
 
+## 🤝 Connect With Me
 
-
-\## 🧠 Future Additions
-
-
-
-\- Adding dashboards for \*\*Healthcare\*\*, \*\*E-commerce\*\*, and \*\*Marketing\*\* analytics  
-
-\- Uploading data sources and `.pbix` files where permitted  
-
-\- Including preview images and GIFs of live dashboards  
-
-
-
----
-
-
-
-\## 🤝 Connect With Me
-
-
-
-I’m always open to feedback, collaboration, or data-driven discussions.
-
-
-
-\*\*👤 K.S. Shankar\*\*  
-
+**K.S. Shankar**  
 📍 Coimbatore Institute of Engineering and Technology  
-
-💼 Aspiring \*\*Data Analyst | Python Developer | Prompt Engineer\*\*  
-
-📧 \[shankar.ks@example.com](mailto:shankar.ks@example.com) \*(replace with your real email)\*  
-
-🌐 \[LinkedIn](https://www.linkedin.com/in/) | \[GitHub](https://github.com/)
-
-
+💼 Aspiring **Data Analyst | Python Developer | Prompt Engineer**  
+📧 [k.s.shankar2005@gmail.com](mailto:k.s.shankar2005@gmail.com) 
+🌐 [LinkedIn](https://www.linkedin.com/in/) | [GitHub](https://github.com/)  
 
 ---
 
-
-
-> \_“Data tells a story — it’s our job to make it worth reading.”\_
-
+> *“Data tells a story — it’s our job to make it worth reading.”*
